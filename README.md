@@ -1,6 +1,6 @@
 DSC_USU_NLP_2021
 
-Source Code dan Slide Presentasi pada Workshop Natural Language Processing 2021
+For more details:
 
 Link Source Code : https://github.com/EddyHu71/DSC_USU_NLP_2021
 
